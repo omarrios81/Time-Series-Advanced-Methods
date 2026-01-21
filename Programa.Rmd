@@ -1,0 +1,80 @@
+---
+title: "Universidad del Valle"
+author: "Facultad de Ingeniería"
+date: "Escuela de Estadística"
+output:
+  html_document: default
+  slidy_presentation: default
+  pdf_document: default
+---
+
+|                   |                                       |                       |                  |
+|:------------------|:--------------------------------------|:----------------------|:-----------------|
+| **Curso**         | 761008 - Regresión Series de Tiempo I | **Validable?**        | No               |
+| **Profesores**    | César Ojeda / Omar Rios               | **Habilitable?**      | No               |
+| **e-mail**        | <cesar.ojeda@correounivalle.edu.co>   | **Fecha**             | Semestre I, 2026 |
+|                   | <omar.rios@correounivalle.edu.co>     |                       |                  |
+| **Créditos**      | 4                                     | **Semanas**           | 5                |
+| **Prerrequisito** | Teoría Estadística II                 | **Horas/Semana**      | 7                |
+
+# Presentación
+
+El curso brinda una introducción básica y moderna al análisis de las series de tiempo. Se considera inicialmente las características de series de tiempo, la regresión de series de tiempo y el análisis de datos exploratorios en este contexto. Posteriormente, se examinan diferentes clases de modelos enfocandose pricipalmente en los modelos ARMA/ARIMA. Se estudia el proceso de identificación, estimación, y obtención de pronósticos. Finalmente, se presenta un introducción al análisis y filtrado espectral. Usaremos R para el cálculo, la visualización y el análisis de las series temporales tratadas.
+
+## Objetivo
+
+El objetivo es estudiar modelos modernos de series de tiempo tanto en el dominio del tiempo como en el dominio de la frecuencia. Los estudiantes deberán poder comprender la estructura matemática subyacente, así como realizar aplicaciones prácticas de estos modelos.
+
+# Metodología
+
+En el curso se utilizan los siguientes métodos y formas de estudio:
+
+-   Clases magistrales.
+-   Tareas participativas.
+-   Presentaciones.
+-   Parciales.
+
+# Texto guía
+
+-   Shumway, R. H. and Stoffer, D. S. (2017), Time Series Analysis and its Applications: With R Examples (Fourth ed.), Springer.
+
+## Textos complementarios
+
+-   Box, G. E. P., Jenkins, G. M., Reinsel, G. C., and Ljung, G. M. (2016), Time Series Analysis: Forecasting and Control (Fifth ed.), Wiley.
+-   Brockwell, P. J. and Davis, R. A. (1991), Time Series: Theory and Methods (Second ed.), Springer.
+-   Wei, W. W. S. (2006), Time Series Analysis: Univariate and Multivariate Methods (Second ed.), Pearson Addison Wesley.
+-   Cryer, J. D. and Chan, K.-S. (2008), Time Series Analysis with Applications in R (Second ed.), Springer.
+-   Palma, W. (2016), Time Series Analysis, Wiley.
+-   Durbin, J. and Koopman S. J. (2012), Time Series Analysis by State Space Methods (2d Edition), Oxford Statistical Science Series.
+
+# Paquetes estadísticos
+
+-   R, <https://www.r-project.org/>.
+-   Time Series Modelling (TSM), <http://www.timeseriesmodelling.com/>.
+-   Scientific Computing Associates (SCA), <http://www.scausa.com/>.
+
+# Evaluación
+
+-   Actividad evaluativa 1 (35%).
+-   Actividad evaluativa 2 (35%).
+-   Ejercicios participativos (30%).
+
+# Programa
+
+| Fecha      | Tema                                                 |Profesor |
+|:-----------|:-----------------------------------------------------|:--------|
+| Vie Feb 6  | Characteristics of time series                       |Omar |
+| Sab Feb 7  | Time series regression and exploratory data analysis |Omar |
+| Vie Feb 13 | ARIMA models: AR, MA  models                         |Omar |
+| Sáb Feb 14 | ARIMA models: ARMA, ARIMA models                     |Cesar |
+| Vie Feb 20 | ARIMA models: Estimation and forecasting             |Cesar |
+| Sab Feb 21 | ARIMA models: Estimation and forecasting             |Cesar |
+| Sab Feb 21 | **Actividad evaluativa 1**                           |Cesar |
+| Vie Feb 27 | Spectral analysis and filtering                      |Cesar |
+| Sab Feb 28 | Spectral analysis and filtering                      |Cesar |
+| Vie Mar 06 | Spectral analysis and filtering                      |Cesar |
+| Sab Mar 07 | State Space Models                                   |Omar |
+| Vie Mar 13 | State Space Models                                   |Omar |
+| Sab Mar 14 | State Space Models                                   |Omar |
+| Sab Mar 14 | **Actividad evaluativa 2**                           |Omar |
+
