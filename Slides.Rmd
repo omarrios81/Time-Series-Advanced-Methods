@@ -20,7 +20,7 @@ library(xts)
 
 # Course Outline
 
-- The goal is to learn modern time series models on either time or frequency domain. Students shall be able to understand the underlying mathematical structure as well as to make practical applications of these models.
+- El objetivo is to learn modern time series models on either time or frequency domain. Students shall be able to understand the underlying mathematical structure as well as to make practical applications of these models.
 
 ## Text
 
